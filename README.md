@@ -5,3 +5,5 @@ here are some of small basic projects on javascript,html,css, these are:
 2. A login page website
 3. A bulb switcher projects
 4. A travel webpage using HTML ans CSS
+5. Simple TO-DO  list
+6. A Github profile searcher.
