@@ -1,4 +1,4 @@
-# trialproject
+# Mini Projects
 practise for project
 here are some of small basic projects on javascript,html,css, these are:
 1. A gaming  application of stone papaer and scissor.
